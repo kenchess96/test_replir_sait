@@ -22,19 +22,9 @@ li a {
   overflow: hidden;
   background-color: #008bff;
 }
-#main{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: url(bg.jpg);
-height: 500px;
-background-position: center center;
-background-repeat: no-repeat;
-background-size: cover;
-
-  
+img {
+  float: center ; 
+  margin: 15px; 
+  width: 500px; 
+  height: 300px;
 }
-
-
-
-
